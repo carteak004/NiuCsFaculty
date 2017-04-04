@@ -7,23 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D228C0A1E9443DA0079B041 /* CollapsibleTableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D228C081E9443DA0079B041 /* CollapsibleTableViewHeader.swift */; };
+		0D228C0B1E9443DA0079B041 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D228C091E9443DA0079B041 /* Extensions.swift */; };
 		0D47D17D1E8FA8AA00B711AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D47D17C1E8FA8AA00B711AC /* AppDelegate.swift */; };
-		0D47D17F1E8FA8AA00B711AC /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D47D17E1E8FA8AA00B711AC /* FirstViewController.swift */; };
-		0D47D1811E8FA8AA00B711AC /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D47D1801E8FA8AA00B711AC /* SecondViewController.swift */; };
 		0D47D1841E8FA8AA00B711AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D47D1821E8FA8AA00B711AC /* Main.storyboard */; };
 		0D47D1861E8FA8AA00B711AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D47D1851E8FA8AA00B711AC /* Assets.xcassets */; };
 		0D47D1891E8FA8AA00B711AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D47D1871E8FA8AA00B711AC /* LaunchScreen.storyboard */; };
+		0D78A6561E915A2D001AA277 /* TaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6551E915A2D001AA277 /* TaViewController.swift */; };
+		0D78A6581E915E35001AA277 /* SP17GTA_Hours.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D78A6571E915E35001AA277 /* SP17GTA_Hours.pdf */; };
+		0D78A65B1E9162B8001AA277 /* coursesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A65A1E9162B8001AA277 /* coursesViewController.swift */; };
+		0D78A6651E91FFB2001AA277 /* facultyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6611E91FFB2001AA277 /* facultyList.swift */; };
+		0D78A6661E91FFB2001AA277 /* homeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6621E91FFB2001AA277 /* homeTableViewCell.swift */; };
+		0D78A6671E91FFB2001AA277 /* homeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6631E91FFB2001AA277 /* homeTableViewController.swift */; };
+		0D78A6681E91FFB2001AA277 /* homeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6641E91FFB2001AA277 /* homeDetailViewController.swift */; };
+		0D78A66A1E91FFF8001AA277 /* facultyList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0D78A6691E91FFF8001AA277 /* facultyList.plist */; };
+		0D78A68C1E92CB84001AA277 /* homeWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A68B1E92CB84001AA277 /* homeWebViewController.swift */; };
+		0D7F2AF01E908FD400202AA3 /* programs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0D7F2AEF1E908FD400202AA3 /* programs.plist */; };
+		0D7F2AF21E90931500202AA3 /* programsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF11E90931500202AA3 /* programsTableViewController.swift */; };
+		0D7F2AF41E90932E00202AA3 /* programsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF31E90932E00202AA3 /* programsTableViewCell.swift */; };
+		0D7F2AF61E90933E00202AA3 /* programs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF51E90933E00202AA3 /* programs.swift */; };
+		0D7F2AF81E90982E00202AA3 /* programsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */; };
+		0D7F2AFB1E90D02900202AA3 /* aboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */; };
+		0D7F2AFD1E90D8E900202AA3 /* aboutUsMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AFC1E90D8E900202AA3 /* aboutUsMapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D228C081E9443DA0079B041 /* CollapsibleTableViewHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollapsibleTableViewHeader.swift; sourceTree = "<group>"; };
+		0D228C091E9443DA0079B041 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		0D47D1791E8FA8AA00B711AC /* CS @ NIU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CS @ NIU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D47D17C1E8FA8AA00B711AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0D47D17E1E8FA8AA00B711AC /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		0D47D1801E8FA8AA00B711AC /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		0D47D1831E8FA8AA00B711AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0D47D1851E8FA8AA00B711AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D47D1881E8FA8AA00B711AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D47D18A1E8FA8AA00B711AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D78A6551E915A2D001AA277 /* TaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaViewController.swift; sourceTree = "<group>"; };
+		0D78A6571E915E35001AA277 /* SP17GTA_Hours.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = SP17GTA_Hours.pdf; sourceTree = "<group>"; };
+		0D78A65A1E9162B8001AA277 /* coursesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = coursesViewController.swift; sourceTree = "<group>"; };
+		0D78A6611E91FFB2001AA277 /* facultyList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = facultyList.swift; sourceTree = "<group>"; };
+		0D78A6621E91FFB2001AA277 /* homeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homeTableViewCell.swift; sourceTree = "<group>"; };
+		0D78A6631E91FFB2001AA277 /* homeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homeTableViewController.swift; sourceTree = "<group>"; };
+		0D78A6641E91FFB2001AA277 /* homeDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homeDetailViewController.swift; sourceTree = "<group>"; };
+		0D78A6691E91FFF8001AA277 /* facultyList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = facultyList.plist; sourceTree = "<group>"; };
+		0D78A68B1E92CB84001AA277 /* homeWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homeWebViewController.swift; sourceTree = "<group>"; };
+		0D7F2AEF1E908FD400202AA3 /* programs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = programs.plist; sourceTree = "<group>"; };
+		0D7F2AF11E90931500202AA3 /* programsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programsTableViewController.swift; sourceTree = "<group>"; };
+		0D7F2AF31E90932E00202AA3 /* programsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programsTableViewCell.swift; sourceTree = "<group>"; };
+		0D7F2AF51E90933E00202AA3 /* programs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programs.swift; sourceTree = "<group>"; };
+		0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programsDetailViewController.swift; sourceTree = "<group>"; };
+		0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aboutUsViewController.swift; sourceTree = "<group>"; };
+		0D7F2AFC1E90D8E900202AA3 /* aboutUsMapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aboutUsMapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +88,71 @@
 		0D47D17B1E8FA8AA00B711AC /* CS @ NIU */ = {
 			isa = PBXGroup;
 			children = (
+				0D78A6911E93E9B1001AA277 /* home */,
+				0D78A6591E9161D0001AA277 /* ta */,
+				0D7F2AF91E90C5F700202AA3 /* programs */,
+				0D78A65C1E91EE21001AA277 /* courses */,
+				0D78A6541E91598C001AA277 /* about us */,
 				0D47D17C1E8FA8AA00B711AC /* AppDelegate.swift */,
-				0D47D17E1E8FA8AA00B711AC /* FirstViewController.swift */,
-				0D47D1801E8FA8AA00B711AC /* SecondViewController.swift */,
 				0D47D1821E8FA8AA00B711AC /* Main.storyboard */,
 				0D47D1851E8FA8AA00B711AC /* Assets.xcassets */,
 				0D47D1871E8FA8AA00B711AC /* LaunchScreen.storyboard */,
 				0D47D18A1E8FA8AA00B711AC /* Info.plist */,
 			);
 			path = "CS @ NIU";
+			sourceTree = "<group>";
+		};
+		0D78A6541E91598C001AA277 /* about us */ = {
+			isa = PBXGroup;
+			children = (
+				0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */,
+				0D7F2AFC1E90D8E900202AA3 /* aboutUsMapViewController.swift */,
+			);
+			name = "about us";
+			sourceTree = "<group>";
+		};
+		0D78A6591E9161D0001AA277 /* ta */ = {
+			isa = PBXGroup;
+			children = (
+				0D78A6551E915A2D001AA277 /* TaViewController.swift */,
+				0D78A6571E915E35001AA277 /* SP17GTA_Hours.pdf */,
+			);
+			name = ta;
+			sourceTree = "<group>";
+		};
+		0D78A65C1E91EE21001AA277 /* courses */ = {
+			isa = PBXGroup;
+			children = (
+				0D78A65A1E9162B8001AA277 /* coursesViewController.swift */,
+			);
+			name = courses;
+			sourceTree = "<group>";
+		};
+		0D78A6911E93E9B1001AA277 /* home */ = {
+			isa = PBXGroup;
+			children = (
+				0D78A6691E91FFF8001AA277 /* facultyList.plist */,
+				0D78A6611E91FFB2001AA277 /* facultyList.swift */,
+				0D78A6621E91FFB2001AA277 /* homeTableViewCell.swift */,
+				0D78A6631E91FFB2001AA277 /* homeTableViewController.swift */,
+				0D78A6641E91FFB2001AA277 /* homeDetailViewController.swift */,
+				0D78A68B1E92CB84001AA277 /* homeWebViewController.swift */,
+				0D228C081E9443DA0079B041 /* CollapsibleTableViewHeader.swift */,
+				0D228C091E9443DA0079B041 /* Extensions.swift */,
+			);
+			name = home;
+			sourceTree = "<group>";
+		};
+		0D7F2AF91E90C5F700202AA3 /* programs */ = {
+			isa = PBXGroup;
+			children = (
+				0D7F2AF51E90933E00202AA3 /* programs.swift */,
+				0D7F2AEF1E908FD400202AA3 /* programs.plist */,
+				0D7F2AF31E90932E00202AA3 /* programsTableViewCell.swift */,
+				0D7F2AF11E90931500202AA3 /* programsTableViewController.swift */,
+				0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */,
+			);
+			name = programs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +216,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D47D1891E8FA8AA00B711AC /* LaunchScreen.storyboard in Resources */,
+				0D78A66A1E91FFF8001AA277 /* facultyList.plist in Resources */,
 				0D47D1861E8FA8AA00B711AC /* Assets.xcassets in Resources */,
 				0D47D1841E8FA8AA00B711AC /* Main.storyboard in Resources */,
+				0D7F2AF01E908FD400202AA3 /* programs.plist in Resources */,
+				0D78A6581E915E35001AA277 /* SP17GTA_Hours.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,9 +231,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D47D1811E8FA8AA00B711AC /* SecondViewController.swift in Sources */,
+				0D78A6661E91FFB2001AA277 /* homeTableViewCell.swift in Sources */,
+				0D78A6671E91FFB2001AA277 /* homeTableViewController.swift in Sources */,
+				0D7F2AFB1E90D02900202AA3 /* aboutUsViewController.swift in Sources */,
+				0D7F2AFD1E90D8E900202AA3 /* aboutUsMapViewController.swift in Sources */,
+				0D7F2AF81E90982E00202AA3 /* programsDetailViewController.swift in Sources */,
+				0D78A6651E91FFB2001AA277 /* facultyList.swift in Sources */,
+				0D78A68C1E92CB84001AA277 /* homeWebViewController.swift in Sources */,
+				0D7F2AF41E90932E00202AA3 /* programsTableViewCell.swift in Sources */,
+				0D78A6681E91FFB2001AA277 /* homeDetailViewController.swift in Sources */,
+				0D78A65B1E9162B8001AA277 /* coursesViewController.swift in Sources */,
+				0D228C0A1E9443DA0079B041 /* CollapsibleTableViewHeader.swift in Sources */,
+				0D228C0B1E9443DA0079B041 /* Extensions.swift in Sources */,
 				0D47D17D1E8FA8AA00B711AC /* AppDelegate.swift in Sources */,
-				0D47D17F1E8FA8AA00B711AC /* FirstViewController.swift in Sources */,
+				0D78A6561E915A2D001AA277 /* TaViewController.swift in Sources */,
+				0D7F2AF21E90931500202AA3 /* programsTableViewController.swift in Sources */,
+				0D7F2AF61E90933E00202AA3 /* programs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +408,7 @@
 				0D47D18F1E8FA8AA00B711AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Alhoori, Hamed</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Assistant Professor</string>
+		<key>education</key>
+		<string>Ph.D., Texas A&amp;M University</string>
+		<key>email</key>
+		<string>alhoori@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~alhoori/</string>
+		<key>hours</key>
+		<string>T Th 12:30pm to 2pm
+T 3:15pm to 4:15pm (PM 203)
+Th 3:30pm to 4:45pm (PM 203)
+(Research Students)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Berezinski, John</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Computer Science Systems Manager and Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>berezin@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~berezin/</string>
+		<key>hours</key>
+		<string>M W 1pm to 3:30pm
+M W 4:45pm to 5:30pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Brown, Georgia</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>gbrown@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~gbrown/</string>
+		<key>hours</key>
+		<string>T Th 9am to 9:25am
+W 9am to 12pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Byrnes, Amy</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>abyrnes@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~byrnes/</string>
+		<key>hours</key>
+		<string>T Th 11am to 1pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Decker, Geoffrey</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>gdecker@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~decker/</string>
+		<key>hours</key>
+		<string>M W F 10am to 11am
+M W 1pm to 2pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Duffin, Kirk</string>
+        <key>category</key>
+        <string>faculty, admin</string>
+		<key>designation</key>
+		<string>Associate Professor</string>
+		<key>education</key>
+		<string>Ph.D., Brigham Young University</string>
+		<key>email</key>
+		<string>duffin@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://graphics.cs.niu.edu/people/duffin/</string>
+		<key>hours</key>
+		<string>M F 11am to 1pm (D.G.S.)
+T Th 10:45am to 12:30pm
+T Th 1:45pm to 3pm
+T Th 3pm to 5pm (D.G.S)</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ege, Raimund K.</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Associate Professor</string>
+		<key>education</key>
+		<string>Ph.D, Oregon Graduate Institute for Science &amp; Technology</string>
+		<key>email</key>
+		<string>ege@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~ege/</string>
+		<key>hours</key>
+		<string>T Th 12:15pm to 1:15pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Freedman, Reva</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Associate Professor</string>
+		<key>education</key>
+		<string>Ph.D., Northwestern University</string>
+		<key>email</key>
+		<string>rfreedman@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~freedman/</string>
+		<key>hours</key>
+		<string>T Th 3pm to 4:45pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Giabbanelli, Philippe</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Assistant Professor</string>
+		<key>education</key>
+		<string>Ph.D., Simon Fraser University</string>
+		<key>email</key>
+		<string>giabba@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://www.dachb.com</string>
+		<key>hours</key>
+		<string>T Th 10:45am to 12:15pm
+T Th 1:45pm to 2:15pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hegde, Shankar</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Visiting Assistant Professor</string>
+		<key>education</key>
+		<string>Ph.D., University of Saskatchewan</string>
+		<key>email</key>
+		<string>shegde@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~hegde/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hou, Minmei</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Associate Professor</string>
+		<key>education</key>
+		<string>Ph.D., Pennsylvania State University</string>
+		<key>email</key>
+		<string>mhou@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~hou/</string>
+		<key>hours</key>
+		<string>T Th 1:45pm -3:45pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hutchins, Harry</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>Ph.D., University of Chicago</string>
+		<key>email</key>
+		<string>t90hch1@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~hutchins/</string>
+		<key>hours</key>
+		<string>T F 12pm to 4pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Karonis, Nicholas</string>
+        <key>category</key>
+        <string>faculty, admin</string>
+		<key>designation</key>
+		<string>Professor</string>
+		<key>education</key>
+		<string>Ph.D., Syracuse University</string>
+		<key>email</key>
+		<string>karonis@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~karonis/homepage.html</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lehuta, Jonathan</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>lehuta@niu.edu</string>
+		<key>website</key>
+		<string>NA</string>
+		<key>hours</key>
+		<string>M W 10am to 11am
+M W 1pm to 2pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leon, James</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>Ed.D., Northern Illinois University</string>
+		<key>email</key>
+		<string>jimleon@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://drjimleon.com/home/</string>
+		<key>hours</key>
+		<string>T Th 3:15pm to 4pm
+T Th 6:15pm to 7pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>McMahon, Kurt</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>kmcmahon@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~mcmahon/</string>
+		<key>hours</key>
+		<string>M W F 10am to 11am</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Musich, Margie Brooks</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>mmusich@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~musich/</string>
+		<key>hours</key>
+		<string>M W 9:30am to 11:30am</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Onyuksel, Ibrahim</string>
+        <key>category</key>
+        <string>faculty, admin</string>
+		<key>designation</key>
+		<string>Professor</string>
+		<key>education</key>
+		<string>Ph.D., University of Michigan</string>
+		<key>email</key>
+		<string>onyuksel@niu.edu</string>
+		<key>website</key>
+		<string>https://lambda.onyuksel.net/~onyuksel/</string>
+		<key>hours</key>
+		<string>T Th 1pm to 2pm
+T Th 3:15pm to 4:15pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Papka, Michael</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Associate Professor</string>
+		<key>education</key>
+		<string>Ph.D., University of Chicago</string>
+		<key>email</key>
+		<string>papka@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~papka/</string>
+		<key>hours</key>
+		<string>M 1pm to 2pm
+W 10am to 11am</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rogness, Daniel</string>
+        <key>category</key>
+        <string>faculty, admin</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>drogness1@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~rogness/</string>
+		<key>hours</key>
+		<string>T Th 10am to 11am
+T Th 1pm to 2pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rush, Kaisone</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>krush@niu.edu</string>
+		<key>website</key>
+		<string>http://www.niu.edu/krush/</string>
+		<key>hours</key>
+		<string>M W F 2pm to 3:15pm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wang, Yih-Chen (Steve)</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Visiting Assistant Professor </string>
+		<key>education</key>
+		<string>Ph.D., Illinois Institute of Technology</string>
+		<key>email</key>
+		<string>swang@cs.niu.edu</string>
+		<key>website</key>
+		<string>NA</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Winans, John</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>jwinans@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~winans/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Yassin, Hania</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Instructor</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>yassin@cs.niu.edu</string>
+		<key>website</key>
+		<string>NA</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Zhou, Jie</string>
+        <key>category</key>
+        <string>faculty</string>
+		<key>designation</key>
+		<string>Associate Professor</string>
+		<key>education</key>
+		<string>Ph.D., Concordia University, Canada</string>
+		<key>email</key>
+		<string>jzhou@niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~zhou/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Angotti, Rodney</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Professor Emeritus</string>
+		<key>education</key>
+		<string>Ph.D., University of Pittsburgh</string>
+		<key>email</key>
+		<string>NA</string>
+		<key>website</key>
+		<string>NA</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jeffrey, H. Joel</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Professor Emeritus</string>
+		<key>education</key>
+		<string>Ph.D., University of Colorado</string>
+		<key>email</key>
+		<string>jeffrey@cs.niu.edu</string>
+		<key>website</key>
+		<string>NA</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Chung, Sei-Jong</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Associate Professor, retired</string>
+		<key>education</key>
+		<string>Ph.D., University of Iowa</string>
+		<key>email</key>
+		<string>sjchung@cs.niu.edu</string>
+		<key>website</key>
+		<string>NA</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rannie, Robert</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Professor Emeritus</string>
+		<key>education</key>
+		<string>Ph.D., Penn State University</string>
+		<key>email</key>
+		<string>rprannie@gmail.com</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~rannie/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Glickfeld, Barnett</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Associate Professor Emeritus</string>
+		<key>education</key>
+		<string>Ph.D., Columbia University</string>
+		<key>email</key>
+		<string>bglickfeld@niu.edu</string>
+		<key>website</key>
+		<string>NA</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rickert, Neil</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Professor Emeritus</string>
+		<key>education</key>
+		<string>Ph.D., Yale University</string>
+		<key>email</key>
+		<string>rickert@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~rickert/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Davis, Kathi Hogshead</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Associate Professor Emerita</string>
+		<key>education</key>
+		<string>Ph.D., Illinois Institute of Technology</string>
+		<key>email</key>
+		<string>kdavis@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~davis/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Stack, Michael</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Instructor, retired</string>
+		<key>education</key>
+		<string>M.S., Northern Illinois University</string>
+		<key>email</key>
+		<string>mstack@kcats.org</string>
+		<key>website</key>
+		<string>http://www.kcats.org</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Henry, George &quot;Jim&quot;</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Associate Professor Emeritus</string>
+		<key>education</key>
+		<string>Ed.D., Northern Illinois University</string>
+		<key>email</key>
+		<string>henry@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://faculty.cs.niu.edu/~henry/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Zerwekh, Robert</string>
+        <key>category</key>
+        <string>retired</string>
+		<key>designation</key>
+		<string>Associate Professor Emeritus</string>
+		<key>education</key>
+		<string>Ph.D., University of Illinois</string>
+		<key>email</key>
+		<string>zerwekh@cs.niu.edu</string>
+		<key>website</key>
+		<string>http://www.seasite.niu.edu/zerwekh/</string>
+		<key>hours</key>
+		<string>NA</string>
+	</dict>
+</array>
+</plist>
