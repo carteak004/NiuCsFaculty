@@ -5,7 +5,9 @@
 //  Created by Kartheek chintalapati on 01/04/17.
 //  Copyright © 2017 Northern Illinois University. All rights reserved.
 //
-
+/**********************************************************
+ creates a class for handling the URLs of programs.
+ **********************************************************/
 import UIKit
 
 class programs: NSObject {

@@ -6,6 +6,10 @@
 //  Copyright © 2017 Northern Illinois University. All rights reserved.
 //
 
+/**********************************************************
+ This will display a segemnted control with three segments. 
+ Each segment will load a pdf in a web view.
+ **********************************************************/
 import UIKit
 
 class coursesViewController: UIViewController {
@@ -13,29 +17,31 @@ class coursesViewController: UIViewController {
     @IBOutlet weak var webView: UIWebView!
     
     @IBAction func segmentedControl(_ sender: UISegmentedControl) {
-        let myUrl: String!
+        let myUrl : String!
         let segIndex = sender.selectedSegmentIndex
         
         switch segIndex {
         case 0:
-            myUrl = "http://www.cs.niu.edu/courses/Summer2017.pdf"
+           myUrl = "Summer2017"
         case 1:
-            myUrl = "http://www.cs.niu.edu/courses/Fall2017.pdf"
+            myUrl = "Fall2017"
         case 2:
-            myUrl = "http://www.cs.niu.edu/courses/Spring17_courses.pdf"
+            myUrl = "Spring17_courses"
         default:
-            myUrl = "http://www.cs.niu.edu/courses/index.shtml"
-            break
+            myUrl = "Summer2017"
         }
-        let url = URL(string: myUrl!)
-        let urlRequest = URLRequest(url: url!)
+        let myPdf = Bundle.main.url(forResource: myUrl, withExtension: "pdf")
+        let urlRequest = URLRequest(url: myPdf!)
         webView.loadRequest(urlRequest)
-
     }
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
+
+        let myPdf = Bundle.main.url(forResource: "Summer2017", withExtension: "pdf")
+        let urlRequest = URLRequest(url: myPdf!)
+        webView.loadRequest(urlRequest)
     }
 
     override func didReceiveMemoryWarning() {

@@ -6,6 +6,11 @@
 //  Copyright © 2017 Northern Illinois University. All rights reserved.
 //
 
+/**********************************************************
+ This class will load a URL in a web view. The URL will be 
+ fetched from the table view.
+ **********************************************************/
+
 import UIKit
 
 class programsDetailViewController: UIViewController {

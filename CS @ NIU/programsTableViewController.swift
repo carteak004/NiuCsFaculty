@@ -6,6 +6,13 @@
 //  Copyright © 2017 Northern Illinois University. All rights reserved.
 //
 
+/**********************************************************
+ This class fetches the data from programs plist and
+ displays that as a table in the table view controller.
+ When clicked on a cell, this class will send the URL of 
+ the related cell to a web view controller.
+ **********************************************************/
+
 import UIKit
 
 class programsTableViewController: UITableViewController {

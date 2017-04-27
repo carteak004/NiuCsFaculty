@@ -1,30 +1,33 @@
 //
-//  homeWebViewController.swift
+//  authorWebViewController.swift
 //  CS @ NIU
 //
-//  Created by Kartheek chintalapati on 03/04/17.
+//  Created by Kartheek chintalapati on 07/04/17.
 //  Copyright © 2017 Northern Illinois University. All rights reserved.
 //
-
 /**********************************************************
- This will display the web address sent to it by the detailVC
+ This will load the personal webpage based on the segue or 
+ address sent.
  **********************************************************/
+
 import UIKit
 
-class homeWebViewController: UIViewController {
+class authorWebViewController: UIViewController {
 
-    @IBOutlet weak var webView: UIWebView!
+    var myPath: String!
     
-    var sentURL:String!
-    var sentHead: String!
+    @IBOutlet weak var webView: UIWebView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let myURL = URL(string: sentURL)
+        // Create a path to the index.html "data" file bundled under the "html" folder
+        let path = Bundle.main.path(forResource: myPath, ofType: "html")!
+        let data:NSData = NSData(contentsOfFile:path)!
+        let html = NSString(data: data as Data, encoding: String.Encoding.utf8.rawValue)
         
-        let urlRequest = URLRequest(url: myURL!)    //create a urlrequest
-        webView.loadRequest(urlRequest) //load the web view
+        // Load the webView outlet with the content of the index.html file
+        webView.loadHTMLString(html! as String, baseURL: Bundle.main.bundleURL)
     }
 
     override func didReceiveMemoryWarning() {

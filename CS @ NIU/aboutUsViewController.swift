@@ -5,7 +5,12 @@
 //  Created by Kartheek chintalapati on 02/04/17.
 //  Copyright © 2017 Northern Illinois University. All rights reserved.
 //
-
+/**********************************************************
+ This will display the department's address, phone number 
+ and a map view that pin points the department's location 
+ on a map. When clicked on the phone number, user can call 
+ directly from the app itself.
+ **********************************************************/
 import UIKit
 import MapKit
 import CoreLocation
@@ -20,7 +25,7 @@ class aboutUsViewController: UIViewController {
         
         // Display the simple alert since we cannot test the above
         // code on the simulator
-        let alertController = UIAlertController(title: "Calling..", message: "1(815)753-0378", preferredStyle: .alert)
+       /* let alertController = UIAlertController(title: "Calling..", message: "1(815)753-0378", preferredStyle: .alert)
         
         let dismissButton = UIAlertAction(title: "Dismiss", style: .cancel, handler: {
             
@@ -28,6 +33,7 @@ class aboutUsViewController: UIViewController {
         })
         alertController.addAction(dismissButton)
         self.present(alertController, animated: true, completion: nil)
+ */
     }
     
     
@@ -43,11 +49,11 @@ class aboutUsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let pinLocation: CLLocationCoordinate2D = CLLocationCoordinate2DMake(41.931581, -88.765053)
+        let pinLocation: CLLocationCoordinate2D = CLLocationCoordinate2DMake(41.931581, -88.765053) //lat and long of department.
         let objAnimation = MKPointAnnotation()
         objAnimation.coordinate = pinLocation
-        objAnimation.title = "Room 460"
-        objAnimation.subtitle = "Psychology-Computer Science Building"
+        objAnimation.title = "Room 460" //title of the pin head
+        objAnimation.subtitle = "Psychology-Computer Science Building" //subtitle of the map head
         self.mapView.addAnnotation(objAnimation)
         
         // Zoom in equally

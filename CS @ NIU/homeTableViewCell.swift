@@ -6,15 +6,18 @@
 //  Copyright © 2017 Northern Illinois University. All rights reserved.
 //
 
+/**********************************************************
+ This holds the contents in the cell of faculty screen.
+ **********************************************************/
+
 import UIKit
 
 class TableViewCell: UITableViewCell {
 
-    @IBOutlet weak var headLabel: UILabel!
+    @IBOutlet weak var headLabel: UILabel! //Head label which shows the name of the faculty and their education.
     
-    @IBOutlet weak var subLabel: UILabel!
+    @IBOutlet weak var subLabel: UILabel! //sub head label which shows the e-mail of the faculty
     
-    @IBOutlet weak var hrsLabel: UILabel!
     
     override func awakeFromNib() {
         super.awakeFromNib()

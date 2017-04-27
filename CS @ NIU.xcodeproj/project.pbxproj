@@ -7,8 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0D228C0A1E9443DA0079B041 /* CollapsibleTableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D228C081E9443DA0079B041 /* CollapsibleTableViewHeader.swift */; };
-		0D228C0B1E9443DA0079B041 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D228C091E9443DA0079B041 /* Extensions.swift */; };
+		0D32DFFF1E9648E200272E0F /* Spring17_courses.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D32DFFE1E9648E200272E0F /* Spring17_courses.pdf */; };
+		0D32E0021E9648F600272E0F /* Fall2017.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D32E0001E9648F600272E0F /* Fall2017.pdf */; };
+		0D32E0031E9648F600272E0F /* Summer2017.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D32E0011E9648F600272E0F /* Summer2017.pdf */; };
 		0D47D17D1E8FA8AA00B711AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D47D17C1E8FA8AA00B711AC /* AppDelegate.swift */; };
 		0D47D1841E8FA8AA00B711AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D47D1821E8FA8AA00B711AC /* Main.storyboard */; };
 		0D47D1861E8FA8AA00B711AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D47D1851E8FA8AA00B711AC /* Assets.xcassets */; };
@@ -28,12 +29,16 @@
 		0D7F2AF61E90933E00202AA3 /* programs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF51E90933E00202AA3 /* programs.swift */; };
 		0D7F2AF81E90982E00202AA3 /* programsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */; };
 		0D7F2AFB1E90D02900202AA3 /* aboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */; };
-		0D7F2AFD1E90D8E900202AA3 /* aboutUsMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AFC1E90D8E900202AA3 /* aboutUsMapViewController.swift */; };
+		0DC10A591E97DDF600928BD2 /* aboutAppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC10A581E97DDF600928BD2 /* aboutAppViewController.swift */; };
+		0DC10A5B1E97DE3000928BD2 /* authorWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC10A5A1E97DE3000928BD2 /* authorWebViewController.swift */; };
+		0DC10A5D1E98020B00928BD2 /* leninhtml in Resources */ = {isa = PBXBuildFile; fileRef = 0DC10A5C1E98020B00928BD2 /* leninhtml */; };
+		0DC10A5F1E98023900928BD2 /* kartheekhtml in Resources */ = {isa = PBXBuildFile; fileRef = 0DC10A5E1E98023900928BD2 /* kartheekhtml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0D228C081E9443DA0079B041 /* CollapsibleTableViewHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollapsibleTableViewHeader.swift; sourceTree = "<group>"; };
-		0D228C091E9443DA0079B041 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		0D32DFFE1E9648E200272E0F /* Spring17_courses.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Spring17_courses.pdf; sourceTree = "<group>"; };
+		0D32E0001E9648F600272E0F /* Fall2017.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Fall2017.pdf; sourceTree = "<group>"; };
+		0D32E0011E9648F600272E0F /* Summer2017.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Summer2017.pdf; sourceTree = "<group>"; };
 		0D47D1791E8FA8AA00B711AC /* CS @ NIU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CS @ NIU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D47D17C1E8FA8AA00B711AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0D47D1831E8FA8AA00B711AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -55,7 +60,10 @@
 		0D7F2AF51E90933E00202AA3 /* programs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programs.swift; sourceTree = "<group>"; };
 		0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programsDetailViewController.swift; sourceTree = "<group>"; };
 		0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aboutUsViewController.swift; sourceTree = "<group>"; };
-		0D7F2AFC1E90D8E900202AA3 /* aboutUsMapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aboutUsMapViewController.swift; sourceTree = "<group>"; };
+		0DC10A581E97DDF600928BD2 /* aboutAppViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aboutAppViewController.swift; sourceTree = "<group>"; };
+		0DC10A5A1E97DE3000928BD2 /* authorWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = authorWebViewController.swift; sourceTree = "<group>"; };
+		0DC10A5C1E98020B00928BD2 /* leninhtml */ = {isa = PBXFileReference; lastKnownFileType = folder; path = leninhtml; sourceTree = "<group>"; };
+		0DC10A5E1E98023900928BD2 /* kartheekhtml */ = {isa = PBXFileReference; lastKnownFileType = folder; path = kartheekhtml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,13 +96,13 @@
 		0D47D17B1E8FA8AA00B711AC /* CS @ NIU */ = {
 			isa = PBXGroup;
 			children = (
+				0D47D1821E8FA8AA00B711AC /* Main.storyboard */,
 				0D78A6911E93E9B1001AA277 /* home */,
 				0D78A6591E9161D0001AA277 /* ta */,
 				0D7F2AF91E90C5F700202AA3 /* programs */,
 				0D78A65C1E91EE21001AA277 /* courses */,
 				0D78A6541E91598C001AA277 /* about us */,
 				0D47D17C1E8FA8AA00B711AC /* AppDelegate.swift */,
-				0D47D1821E8FA8AA00B711AC /* Main.storyboard */,
 				0D47D1851E8FA8AA00B711AC /* Assets.xcassets */,
 				0D47D1871E8FA8AA00B711AC /* LaunchScreen.storyboard */,
 				0D47D18A1E8FA8AA00B711AC /* Info.plist */,
@@ -105,8 +113,11 @@
 		0D78A6541E91598C001AA277 /* about us */ = {
 			isa = PBXGroup;
 			children = (
+				0DC10A5E1E98023900928BD2 /* kartheekhtml */,
+				0DC10A5C1E98020B00928BD2 /* leninhtml */,
 				0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */,
-				0D7F2AFC1E90D8E900202AA3 /* aboutUsMapViewController.swift */,
+				0DC10A581E97DDF600928BD2 /* aboutAppViewController.swift */,
+				0DC10A5A1E97DE3000928BD2 /* authorWebViewController.swift */,
 			);
 			name = "about us";
 			sourceTree = "<group>";
@@ -124,6 +135,9 @@
 			isa = PBXGroup;
 			children = (
 				0D78A65A1E9162B8001AA277 /* coursesViewController.swift */,
+				0D32DFFE1E9648E200272E0F /* Spring17_courses.pdf */,
+				0D32E0001E9648F600272E0F /* Fall2017.pdf */,
+				0D32E0011E9648F600272E0F /* Summer2017.pdf */,
 			);
 			name = courses;
 			sourceTree = "<group>";
@@ -137,8 +151,6 @@
 				0D78A6631E91FFB2001AA277 /* homeTableViewController.swift */,
 				0D78A6641E91FFB2001AA277 /* homeDetailViewController.swift */,
 				0D78A68B1E92CB84001AA277 /* homeWebViewController.swift */,
-				0D228C081E9443DA0079B041 /* CollapsibleTableViewHeader.swift */,
-				0D228C091E9443DA0079B041 /* Extensions.swift */,
 			);
 			name = home;
 			sourceTree = "<group>";
@@ -187,7 +199,7 @@
 				TargetAttributes = {
 					0D47D1781E8FA8AA00B711AC = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = BGP5DE3R94;
+						DevelopmentTeam = S224WD5FPF;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -218,9 +230,14 @@
 				0D47D1891E8FA8AA00B711AC /* LaunchScreen.storyboard in Resources */,
 				0D78A66A1E91FFF8001AA277 /* facultyList.plist in Resources */,
 				0D47D1861E8FA8AA00B711AC /* Assets.xcassets in Resources */,
+				0D32DFFF1E9648E200272E0F /* Spring17_courses.pdf in Resources */,
 				0D47D1841E8FA8AA00B711AC /* Main.storyboard in Resources */,
+				0D32E0021E9648F600272E0F /* Fall2017.pdf in Resources */,
+				0DC10A5D1E98020B00928BD2 /* leninhtml in Resources */,
 				0D7F2AF01E908FD400202AA3 /* programs.plist in Resources */,
+				0D32E0031E9648F600272E0F /* Summer2017.pdf in Resources */,
 				0D78A6581E915E35001AA277 /* SP17GTA_Hours.pdf in Resources */,
+				0DC10A5F1E98023900928BD2 /* kartheekhtml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -234,15 +251,14 @@
 				0D78A6661E91FFB2001AA277 /* homeTableViewCell.swift in Sources */,
 				0D78A6671E91FFB2001AA277 /* homeTableViewController.swift in Sources */,
 				0D7F2AFB1E90D02900202AA3 /* aboutUsViewController.swift in Sources */,
-				0D7F2AFD1E90D8E900202AA3 /* aboutUsMapViewController.swift in Sources */,
 				0D7F2AF81E90982E00202AA3 /* programsDetailViewController.swift in Sources */,
 				0D78A6651E91FFB2001AA277 /* facultyList.swift in Sources */,
+				0DC10A591E97DDF600928BD2 /* aboutAppViewController.swift in Sources */,
 				0D78A68C1E92CB84001AA277 /* homeWebViewController.swift in Sources */,
+				0DC10A5B1E97DE3000928BD2 /* authorWebViewController.swift in Sources */,
 				0D7F2AF41E90932E00202AA3 /* programsTableViewCell.swift in Sources */,
 				0D78A6681E91FFB2001AA277 /* homeDetailViewController.swift in Sources */,
 				0D78A65B1E9162B8001AA277 /* coursesViewController.swift in Sources */,
-				0D228C0A1E9443DA0079B041 /* CollapsibleTableViewHeader.swift in Sources */,
-				0D228C0B1E9443DA0079B041 /* Extensions.swift in Sources */,
 				0D47D17D1E8FA8AA00B711AC /* AppDelegate.swift in Sources */,
 				0D78A6561E915A2D001AA277 /* TaViewController.swift in Sources */,
 				0D7F2AF21E90931500202AA3 /* programsTableViewController.swift in Sources */,
@@ -367,10 +383,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BGP5DE3R94;
+				DEVELOPMENT_TEAM = S224WD5FPF;
 				INFOPLIST_FILE = "CS @ NIU/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "NIU.CS---NIU";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.niu.cs.CS---NIU";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -380,10 +397,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BGP5DE3R94;
+				DEVELOPMENT_TEAM = S224WD5FPF;
 				INFOPLIST_FILE = "CS @ NIU/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "NIU.CS---NIU";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.niu.cs.CS---NIU";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
