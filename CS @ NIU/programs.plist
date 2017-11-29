@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>BS Degree at NIU</string>
+		<key>website</key>
+		<string>http://catalog.niu.edu/preview_program.php?catoid=41&amp;poid=9186&amp;hl=%22computer+science%22&amp;returnto=search</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MS Degree at NIU</string>
+		<key>website</key>
+		<string>http://catalog.niu.edu/preview_program.php?catoid=8&amp;poid=1279&amp;returnto=217</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CS Mobile Device Programming (UG)</string>
+		<key>website</key>
+		<string>http://www.cs.niu.edu/undergraduate/mp.shtml</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CS Mobile Device Programming (G)</string>
+		<key>website</key>
+		<string>http://www.cs.niu.edu/graduate/mp.shtml</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Computer Science Recruiters</string>
+		<key>website</key>
+		<string>http://www.cs.niu.edu/aboutus/recruiting.shtml</string>
+	</dict>
+</array>
+</plist>
