@@ -15,13 +15,14 @@ import UIKit
 
 class FacultyList: NSObject {
     
+    
     var name: String!
     var designation: String!
     var email: String!
     var website: String!
-    var hours: String!
+    var hours = [[String]]()
     
-    init(name: String, designation: String, email: String, website: String, hours: String) {
+    init(name: String, designation: String, email: String, website: String, hours: [[String]]) {
         self.name = name
         self.designation = designation
         self.email = email

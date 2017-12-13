@@ -69,10 +69,11 @@ class programsTableViewController: UITableViewController {
 
         // Configure the cell...
         let progList:programs = progObject[indexPath.row]
-        let cell:programsTableViewCell = tableView.dequeueReusableCell(withIdentifier: "programsCELL") as! programsTableViewCell
+        let cell = tableView.dequeueReusableCell(withIdentifier: "programsCELL", for: indexPath)
         
         //place the attribs in the cell
-        cell.nameLabel.text = progList.name
+        cell.textLabel?.text = progList.name
+        cell.textLabel?.sizeToFit()
 
         return cell
     }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D162BBF1FD90EBF00157880 /* FA17GTAAssigments.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D162BBE1FD90EBF00157880 /* FA17GTAAssigments.pdf */; };
 		0D32DFFF1E9648E200272E0F /* Spring17_courses.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D32DFFE1E9648E200272E0F /* Spring17_courses.pdf */; };
 		0D32E0021E9648F600272E0F /* Fall2017.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D32E0001E9648F600272E0F /* Fall2017.pdf */; };
 		0D32E0031E9648F600272E0F /* Summer2017.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D32E0011E9648F600272E0F /* Summer2017.pdf */; };
@@ -15,28 +16,25 @@
 		0D47D1861E8FA8AA00B711AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D47D1851E8FA8AA00B711AC /* Assets.xcassets */; };
 		0D47D1891E8FA8AA00B711AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D47D1871E8FA8AA00B711AC /* LaunchScreen.storyboard */; };
 		0D78A6561E915A2D001AA277 /* TaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6551E915A2D001AA277 /* TaViewController.swift */; };
-		0D78A6581E915E35001AA277 /* SP17GTA_Hours.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0D78A6571E915E35001AA277 /* SP17GTA_Hours.pdf */; };
 		0D78A65B1E9162B8001AA277 /* coursesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A65A1E9162B8001AA277 /* coursesViewController.swift */; };
 		0D78A6651E91FFB2001AA277 /* FacultyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6611E91FFB2001AA277 /* FacultyList.swift */; };
-		0D78A6661E91FFB2001AA277 /* FacultyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6621E91FFB2001AA277 /* FacultyTableViewCell.swift */; };
-		0D78A6681E91FFB2001AA277 /* homeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6641E91FFB2001AA277 /* homeDetailViewController.swift */; };
-		0D78A68C1E92CB84001AA277 /* homeWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A68B1E92CB84001AA277 /* homeWebViewController.swift */; };
+		0D78A6681E91FFB2001AA277 /* FacultyDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A6641E91FFB2001AA277 /* FacultyDetailViewController.swift */; };
+		0D78A68C1E92CB84001AA277 /* FacultyWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D78A68B1E92CB84001AA277 /* FacultyWebViewController.swift */; };
 		0D7F2AF01E908FD400202AA3 /* programs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0D7F2AEF1E908FD400202AA3 /* programs.plist */; };
 		0D7F2AF21E90931500202AA3 /* programsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF11E90931500202AA3 /* programsTableViewController.swift */; };
-		0D7F2AF41E90932E00202AA3 /* programsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF31E90932E00202AA3 /* programsTableViewCell.swift */; };
 		0D7F2AF61E90933E00202AA3 /* programs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF51E90933E00202AA3 /* programs.swift */; };
 		0D7F2AF81E90982E00202AA3 /* programsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */; };
 		0D7F2AFB1E90D02900202AA3 /* aboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */; };
+		0DBF3A9F1FD88F8200FE729C /* FacultyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBF3A9E1FD88F8200FE729C /* FacultyTableViewCell.swift */; };
 		0DC10A591E97DDF600928BD2 /* aboutAppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC10A581E97DDF600928BD2 /* aboutAppViewController.swift */; };
 		0DC10A5B1E97DE3000928BD2 /* authorWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC10A5A1E97DE3000928BD2 /* authorWebViewController.swift */; };
-		0DC10A5D1E98020B00928BD2 /* leninhtml in Resources */ = {isa = PBXBuildFile; fileRef = 0DC10A5C1E98020B00928BD2 /* leninhtml */; };
 		0DC10A5F1E98023900928BD2 /* kartheekhtml in Resources */ = {isa = PBXBuildFile; fileRef = 0DC10A5E1E98023900928BD2 /* kartheekhtml */; };
 		13089E4A1FCE0630007EFA88 /* Data Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 13089E481FCE0630007EFA88 /* Data Model.xcdatamodeld */; };
 		13089E4C1FCE205D007EFA88 /* FacultyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13089E4B1FCE205D007EFA88 /* FacultyViewController.swift */; };
-		13089E4E1FCE30E3007EFA88 /* ChangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13089E4D1FCE30E3007EFA88 /* ChangeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D162BBE1FD90EBF00157880 /* FA17GTAAssigments.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = FA17GTAAssigments.pdf; sourceTree = "<group>"; };
 		0D32DFFE1E9648E200272E0F /* Spring17_courses.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Spring17_courses.pdf; sourceTree = "<group>"; };
 		0D32E0001E9648F600272E0F /* Fall2017.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Fall2017.pdf; sourceTree = "<group>"; };
 		0D32E0011E9648F600272E0F /* Summer2017.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Summer2017.pdf; sourceTree = "<group>"; };
@@ -47,25 +45,21 @@
 		0D47D1881E8FA8AA00B711AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D47D18A1E8FA8AA00B711AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D78A6551E915A2D001AA277 /* TaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaViewController.swift; sourceTree = "<group>"; };
-		0D78A6571E915E35001AA277 /* SP17GTA_Hours.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = SP17GTA_Hours.pdf; sourceTree = "<group>"; };
 		0D78A65A1E9162B8001AA277 /* coursesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = coursesViewController.swift; sourceTree = "<group>"; };
 		0D78A6611E91FFB2001AA277 /* FacultyList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacultyList.swift; sourceTree = "<group>"; };
-		0D78A6621E91FFB2001AA277 /* FacultyTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacultyTableViewCell.swift; sourceTree = "<group>"; };
-		0D78A6641E91FFB2001AA277 /* homeDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homeDetailViewController.swift; sourceTree = "<group>"; };
-		0D78A68B1E92CB84001AA277 /* homeWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homeWebViewController.swift; sourceTree = "<group>"; };
+		0D78A6641E91FFB2001AA277 /* FacultyDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacultyDetailViewController.swift; sourceTree = "<group>"; };
+		0D78A68B1E92CB84001AA277 /* FacultyWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacultyWebViewController.swift; sourceTree = "<group>"; };
 		0D7F2AEF1E908FD400202AA3 /* programs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = programs.plist; sourceTree = "<group>"; };
 		0D7F2AF11E90931500202AA3 /* programsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programsTableViewController.swift; sourceTree = "<group>"; };
-		0D7F2AF31E90932E00202AA3 /* programsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programsTableViewCell.swift; sourceTree = "<group>"; };
 		0D7F2AF51E90933E00202AA3 /* programs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programs.swift; sourceTree = "<group>"; };
 		0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = programsDetailViewController.swift; sourceTree = "<group>"; };
 		0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aboutUsViewController.swift; sourceTree = "<group>"; };
+		0DBF3A9E1FD88F8200FE729C /* FacultyTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacultyTableViewCell.swift; sourceTree = "<group>"; };
 		0DC10A581E97DDF600928BD2 /* aboutAppViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aboutAppViewController.swift; sourceTree = "<group>"; };
 		0DC10A5A1E97DE3000928BD2 /* authorWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = authorWebViewController.swift; sourceTree = "<group>"; };
-		0DC10A5C1E98020B00928BD2 /* leninhtml */ = {isa = PBXFileReference; lastKnownFileType = folder; path = leninhtml; sourceTree = "<group>"; };
 		0DC10A5E1E98023900928BD2 /* kartheekhtml */ = {isa = PBXFileReference; lastKnownFileType = folder; path = kartheekhtml; sourceTree = "<group>"; };
 		13089E491FCE0630007EFA88 /* Data Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Data Model.xcdatamodel"; sourceTree = "<group>"; };
 		13089E4B1FCE205D007EFA88 /* FacultyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacultyViewController.swift; sourceTree = "<group>"; };
-		13089E4D1FCE30E3007EFA88 /* ChangeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChangeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +94,7 @@
 			children = (
 				0D47D1821E8FA8AA00B711AC /* Main.storyboard */,
 				13089E481FCE0630007EFA88 /* Data Model.xcdatamodeld */,
-				0D78A6911E93E9B1001AA277 /* home */,
+				0D78A6911E93E9B1001AA277 /* Faculty */,
 				0D78A6591E9161D0001AA277 /* ta */,
 				0D7F2AF91E90C5F700202AA3 /* programs */,
 				0D78A65C1E91EE21001AA277 /* courses */,
@@ -117,7 +111,6 @@
 			isa = PBXGroup;
 			children = (
 				0DC10A5E1E98023900928BD2 /* kartheekhtml */,
-				0DC10A5C1E98020B00928BD2 /* leninhtml */,
 				0D7F2AFA1E90D02900202AA3 /* aboutUsViewController.swift */,
 				0DC10A581E97DDF600928BD2 /* aboutAppViewController.swift */,
 				0DC10A5A1E97DE3000928BD2 /* authorWebViewController.swift */,
@@ -129,7 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				0D78A6551E915A2D001AA277 /* TaViewController.swift */,
-				0D78A6571E915E35001AA277 /* SP17GTA_Hours.pdf */,
+				0D162BBE1FD90EBF00157880 /* FA17GTAAssigments.pdf */,
 			);
 			name = ta;
 			sourceTree = "<group>";
@@ -145,17 +138,16 @@
 			name = courses;
 			sourceTree = "<group>";
 		};
-		0D78A6911E93E9B1001AA277 /* home */ = {
+		0D78A6911E93E9B1001AA277 /* Faculty */ = {
 			isa = PBXGroup;
 			children = (
 				0D78A6611E91FFB2001AA277 /* FacultyList.swift */,
-				0D78A6621E91FFB2001AA277 /* FacultyTableViewCell.swift */,
+				0DBF3A9E1FD88F8200FE729C /* FacultyTableViewCell.swift */,
 				13089E4B1FCE205D007EFA88 /* FacultyViewController.swift */,
-				0D78A6641E91FFB2001AA277 /* homeDetailViewController.swift */,
-				0D78A68B1E92CB84001AA277 /* homeWebViewController.swift */,
-				13089E4D1FCE30E3007EFA88 /* ChangeViewController.swift */,
+				0D78A6641E91FFB2001AA277 /* FacultyDetailViewController.swift */,
+				0D78A68B1E92CB84001AA277 /* FacultyWebViewController.swift */,
 			);
-			name = home;
+			name = Faculty;
 			sourceTree = "<group>";
 		};
 		0D7F2AF91E90C5F700202AA3 /* programs */ = {
@@ -163,7 +155,6 @@
 			children = (
 				0D7F2AF51E90933E00202AA3 /* programs.swift */,
 				0D7F2AEF1E908FD400202AA3 /* programs.plist */,
-				0D7F2AF31E90932E00202AA3 /* programsTableViewCell.swift */,
 				0D7F2AF11E90931500202AA3 /* programsTableViewController.swift */,
 				0D7F2AF71E90982E00202AA3 /* programsDetailViewController.swift */,
 			);
@@ -234,11 +225,10 @@
 				0D47D1861E8FA8AA00B711AC /* Assets.xcassets in Resources */,
 				0D32DFFF1E9648E200272E0F /* Spring17_courses.pdf in Resources */,
 				0D47D1841E8FA8AA00B711AC /* Main.storyboard in Resources */,
+				0D162BBF1FD90EBF00157880 /* FA17GTAAssigments.pdf in Resources */,
 				0D32E0021E9648F600272E0F /* Fall2017.pdf in Resources */,
-				0DC10A5D1E98020B00928BD2 /* leninhtml in Resources */,
 				0D7F2AF01E908FD400202AA3 /* programs.plist in Resources */,
 				0D32E0031E9648F600272E0F /* Summer2017.pdf in Resources */,
-				0D78A6581E915E35001AA277 /* SP17GTA_Hours.pdf in Resources */,
 				0DC10A5F1E98023900928BD2 /* kartheekhtml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,16 +240,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D78A6661E91FFB2001AA277 /* FacultyTableViewCell.swift in Sources */,
+				0DBF3A9F1FD88F8200FE729C /* FacultyTableViewCell.swift in Sources */,
 				0D7F2AFB1E90D02900202AA3 /* aboutUsViewController.swift in Sources */,
-				13089E4E1FCE30E3007EFA88 /* ChangeViewController.swift in Sources */,
 				0D7F2AF81E90982E00202AA3 /* programsDetailViewController.swift in Sources */,
 				0D78A6651E91FFB2001AA277 /* FacultyList.swift in Sources */,
 				0DC10A591E97DDF600928BD2 /* aboutAppViewController.swift in Sources */,
-				0D78A68C1E92CB84001AA277 /* homeWebViewController.swift in Sources */,
+				0D78A68C1E92CB84001AA277 /* FacultyWebViewController.swift in Sources */,
 				0DC10A5B1E97DE3000928BD2 /* authorWebViewController.swift in Sources */,
-				0D7F2AF41E90932E00202AA3 /* programsTableViewCell.swift in Sources */,
-				0D78A6681E91FFB2001AA277 /* homeDetailViewController.swift in Sources */,
+				0D78A6681E91FFB2001AA277 /* FacultyDetailViewController.swift in Sources */,
 				13089E4A1FCE0630007EFA88 /* Data Model.xcdatamodeld in Sources */,
 				0D78A65B1E9162B8001AA277 /* coursesViewController.swift in Sources */,
 				0D47D17D1E8FA8AA00B711AC /* AppDelegate.swift in Sources */,

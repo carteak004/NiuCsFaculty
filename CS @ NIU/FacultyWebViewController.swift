@@ -11,7 +11,7 @@
  **********************************************************/
 import UIKit
 
-class homeWebViewController: UIViewController {
+class FacultyWebViewController: UIViewController {
 
     @IBOutlet weak var webView: UIWebView!
     

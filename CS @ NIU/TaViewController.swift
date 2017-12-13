@@ -19,7 +19,7 @@ class TaViewController: UIViewController {
         super.viewDidLoad()
 
         //let myURL = URL(string: "http://www.cs.niu.edu/faculty/SP17GTA_Hours.pdf")
-        let pdf = Bundle.main.url(forResource: "SP17GTA_Hours", withExtension: "pdf") //load pdf 
+        let pdf = Bundle.main.url(forResource: "FA17GTAAssigments", withExtension: "pdf") //load pdf 
         
         let urlRequest = URLRequest(url: pdf!)
         webView.loadRequest(urlRequest)
