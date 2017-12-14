@@ -23,4 +23,4 @@ The tab shows the department Address, office hours, phone number and a map view 
 
 
 
-####Note: This app is designed as a part of course requirement of NIU.
+_This project is done for a course requirement of NIU_
